@@ -1,19 +1,9 @@
-# 
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/746464734664065175/1118121755723190383/about.png" width="200" height="200" alt="Header Image">
 
   ## Hi there, I'm Max Roos 👋
 
-  <p>Welcome to my GitHub profile! I'm a passionate frontend developer with skills in JavaScript, HTML, CSS, React.js, and Tailwind CSS.</p>
+  <p>Welcome to my GitHub profile! 
 
   <img src="code.gif" alt="Code GIF">
-  
-  ### 🚀 What I'm Working On
-
-  - 🌱 Currently learning Tailwind.css
-  - 💻 Building awesome web experiences
-  - ⚡️ Improving my skills every day
 
   ### 💼 Skills
 
