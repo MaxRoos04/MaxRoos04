@@ -8,9 +8,10 @@
   ### 💼 Skills
 
   <ul style="list-style-type:none">
-    <li><b>Languages:</b> JavaScript, HTML5, CSS3</li>
+    <li><b>Languages:</b> JavaScript, HTML5, CSS3, C#</li>
     <li><b>Frameworks/Libraries:</b> React.js, Tailwind CSS</li>
     <li><b>Tools:</b> npm</li>
+    <li><b>Game Engine:</b> Unity</li>
   </ul>
 
   ### 🌐 Connect with Me
